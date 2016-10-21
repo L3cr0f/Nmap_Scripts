@@ -11,4 +11,4 @@ nmap -p 443 --script=path/http-cookies.nse <IP-address>
 
 The output will be something like that:
 
-[[https://github.com/ernsferrari/Nmap_Scripts/blob/master/Images/http-cookies.png|alt=octocat]]
+![alt tag](https://github.com/ernsferrari/Nmap_Scripts/blob/master/Images/http-cookies.png)
