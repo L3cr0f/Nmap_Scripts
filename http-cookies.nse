@@ -118,15 +118,12 @@ local function checkLongExpirationDate(date)
 				longExpiration = true
 			else
 				longExpiration = false
-				print("Paso3")
 			end
 		else
 			longExpiration = false
-			print("Paso2")
 		end
 	else
 		longExpiration = false
-		print("Paso1")
 	end
 	
 	return longExpiration
