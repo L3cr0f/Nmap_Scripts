@@ -75,7 +75,7 @@ local function stringMonthToNumber(month)
 		number = 9
 	elseif (month == "Oct") then
 		number = 10
-	elseif (month == "Noc") then
+	elseif (month == "Nov") then
 		number = 11
 	elseif (month == "Dec") then
 		number = 12
